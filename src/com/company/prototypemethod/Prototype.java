@@ -1,4 +1,4 @@
-package prototypemethod;
+package com.company.prototypemethod;
 
 public interface Prototype {
 
