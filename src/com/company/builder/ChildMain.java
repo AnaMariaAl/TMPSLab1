@@ -11,6 +11,6 @@ public class ChildMain {
                 .withVaccinated(true)
                 .build();
 
-        System.out.println(johnny.toString());
+        System.out.println(johnny);
     }
 }

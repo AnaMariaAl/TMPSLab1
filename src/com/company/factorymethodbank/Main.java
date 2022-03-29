@@ -2,7 +2,7 @@ package com.company.factorymethodbank;
 
 import java.util.Scanner;
 
-public class Moldindconbank {
+public class Main {
     public static void main(String[] args) {
         String cardtype ="";
         Scanner sc=new Scanner(System.in);

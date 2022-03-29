@@ -84,7 +84,7 @@ public class Child {
  }
     @Override
     public String toString() {
-        return " Child{" +
+        return "Child {" +
                 "name='" + name + "\n" +
                 "lastName='" + lastName + "\n" +
                 "dateOfBirth=" + dateOfBirth + "\n" +
